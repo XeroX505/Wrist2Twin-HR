@@ -1,0 +1,22 @@
+{
+  "output_root": "outputs",
+  "model_root": "pretrained",
+  "development_data_root": "/home/your_user/Wrist2Twin-HR/Data",
+  "development_enabled": false,
+  "development_intensity_root": null,
+  "modes": ["dot_wrist_with_gyr"],
+  "scenarios": ["80"],
+  "epochs": 5000,
+  "seed": 2026,
+  "datasets": {
+    "BITS2_ADL_no_existing_health_issues": {
+      "path": "/home/your_user/BITS2_ADL_no_existing_health_issues",
+      "mode": "dot_wrist_with_gyr"
+    },
+    "PAMAP2": {
+      "path": "/home/your_user/pamap2",
+      "exclude_records": ["subject109-protocol"],
+      "mode": "dot_wrist_with_gyr"
+    }
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "output_root": "outputs_both_sensors",
+  "model_root": "pretrained",
+  "development_data_root": "/home/your_user/Wrist2Twin-HR/Data",
+  "development_enabled": false,
+  "development_intensity_root": null,
+  "modes": ["e4_compatible_no_gyr", "dot_wrist_with_gyr"],
+  "scenarios": ["80"],
+  "epochs": 5000,
+  "seed": 2026,
+  "datasets": {
+    "PPG_DaLiA": {
+      "path": "/home/your_user/PPG_DaLiA",
+      "mode": "e4_compatible_no_gyr"
+    },
+    "Stress_Aerobic": {
+      "path": "/home/your_user/Stress_Aerobic",
+      "exclude_records": ["S11"],
+      "mode": "e4_compatible_no_gyr"
+    },
+    "BITS2_ADL_no_existing_health_issues": {
+      "path": "/home/your_user/BITS2_ADL_no_existing_health_issues",
+      "mode": "dot_wrist_with_gyr"
+    },
+    "PAMAP2": {
+      "path": "/home/your_user/pamap2",
+      "exclude_records": ["subject109-protocol"],
+      "mode": "dot_wrist_with_gyr"
+    }
+  }
+}

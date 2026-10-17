@@ -1,0 +1,23 @@
+{
+  "format": 1,
+  "sample_rate_hz": 1,
+  "trusted_models_only": true,
+  "artifacts": {
+    "dot_wrist_with_gyr_module1a.joblib": {
+      "sha256": "ec821af3290f860b3d2e35b637a119e0d480e41ace88ef9e1030fb58f09af94a",
+      "bytes": 56564692
+    },
+    "dot_wrist_with_gyr_module1b.joblib": {
+      "sha256": "5d4905b90ca015491df456bf17a86b410cb0074aea10cb8cfa5cd78153ce0e30",
+      "bytes": 617557617
+    },
+    "e4_compatible_no_gyr_module1a.joblib": {
+      "sha256": "e8d63bb162de9c157930135c30227ded78177f3b869a2ba9f57e9f08b9cd246a",
+      "bytes": 61335537
+    },
+    "e4_compatible_no_gyr_module1b.joblib": {
+      "sha256": "5811cfe9e9d65d405b3edf322c48c223cae2b9c7daeb04d5721e4f25dac7ffb4",
+      "bytes": 617207523
+    }
+  }
+}

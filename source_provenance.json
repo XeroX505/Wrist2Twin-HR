@@ -1,0 +1,80 @@
+[
+  {
+    "file": "legacy/paper4_part1_intensity.py",
+    "original_sha256": "561f0689c8a966dff50b4745b3a24fe445453aaea46b4fe4773e99b15a8d2d3c",
+    "packaged_sha256": "696d40fca2043cfe9a213db2e37a344c8d16fb7ab93bcfd5c1437e4752e2fa5d",
+    "changes": "Remove workstation CLI blocks; make WORKSPACE environment-relative; normalize LF and EOF whitespace."
+  },
+  {
+    "file": "legacy/paper4_part2_ekf.py",
+    "original_sha256": "bf9a5571ba0ded94bba5d10131e660d18f0d2a66a44c82c7aa946e64e38e02f8",
+    "packaged_sha256": "d6dc6dec4237cf182b0ee5012edf446c41e28ff3a7b9980c33121e6462ec73eb",
+    "changes": "Remove workstation CLI blocks; make WORKSPACE environment-relative; normalize LF and EOF whitespace."
+  },
+  {
+    "file": "legacy/paper4_part3_pmbnn.py",
+    "original_sha256": "488e9d1ca2e15202f96672d054207e0aa1da55c0042118726e1568217006a4d3",
+    "packaged_sha256": "680f6beadef4ea5225d3d49964c13964a2d6b2be43dd953f7ab9cad78aa63c56",
+    "changes": "Remove workstation CLI blocks; make WORKSPACE environment-relative; normalize LF and EOF whitespace."
+  },
+  {
+    "file": "legacy/hybrid_parts_common.py",
+    "original_sha256": "fc4161415c2eadc5484aceed89e8c7e9eaa283657bcec4a92dac5ffe9a14458e",
+    "packaged_sha256": "fc4161415c2eadc5484aceed89e8c7e9eaa283657bcec4a92dac5ffe9a14458e",
+    "changes": "Remove workstation CLI blocks; make WORKSPACE environment-relative; normalize LF and EOF whitespace."
+  },
+  {
+    "file": "legacy/part3_pinn_hr.py",
+    "original_sha256": "176c2bcb6f6c338569e3661df4dd6415e4c733321f1c8a4d5b92727cbe4e5508",
+    "packaged_sha256": "4ed692918cddb849b669c1245696e5fea08e08c2fbb7169fb6f78a67759a3dc8",
+    "changes": "Remove workstation CLI blocks; make WORKSPACE environment-relative; normalize LF and EOF whitespace."
+  },
+  {
+    "file": "legacy/part2_ekf_vo2.py",
+    "original_sha256": "6ec6021f841084a2276c5af3a74f40c5d72af1d025e6c5e2364022cfbb734bdd",
+    "packaged_sha256": "34ce45dfa0e9bbd701738a854825efe25e846ef5e6ec264bab68522dc85aa3da",
+    "changes": "Remove workstation CLI blocks; make WORKSPACE environment-relative; normalize LF and EOF whitespace."
+  },
+  {
+    "file": "legacy/models.py",
+    "original_sha256": "7b02e89ceac64eec4a1750aca9a217d664d8b204ad33c1e88d5327f1894908c5",
+    "packaged_sha256": "d88d8622bc3b28fd4872ed919202c354bb3292ab48e60632b9f425e23de55f7b",
+    "changes": "Remove workstation CLI blocks; make WORKSPACE environment-relative; normalize LF and EOF whitespace."
+  },
+  {
+    "file": "legacy/optimize_wrist_loso_part12.py",
+    "original_sha256": "bfbac5a3e7cc3b859ec84da0a45eb422fcd384f95edeb4c52ee4cd09e8434cc6",
+    "packaged_sha256": "37bfbf63d48d30be7c4c7b91f94c51c4c1dd2697932ffe211cadea603b0091f5",
+    "changes": "Remove workstation CLI blocks; make WORKSPACE environment-relative; normalize LF and EOF whitespace."
+  },
+  {
+    "file": "legacy/train_saved_intensity_models_external.py",
+    "original_sha256": "3f3d546cc1746712683a4754a0c34db967a198987d2dc1c210232a19b5f1ad80",
+    "packaged_sha256": "efbf124bb828d5cebf01c4ecfe5a0002a96b4e42f07c92d420f86c8fdc5d7d4f",
+    "changes": "Remove workstation CLI blocks; make WORKSPACE environment-relative; normalize LF and EOF whitespace."
+  },
+  {
+    "file": "legacy/compare_dot6_ekf_vo2.py",
+    "original_sha256": "b722872917fe4391af9991e1d679eb1bda9f1ff13dc20de50539f6ea6fdc04e7",
+    "packaged_sha256": "752197efb6607300955a271eee6453ee0e1c3a358075a4cf43286f796a145489",
+    "changes": "Remove workstation CLI blocks; make WORKSPACE environment-relative; normalize LF and EOF whitespace."
+  },
+  {
+    "file": "legacy/compare_sensor_intensity.py",
+    "original_sha256": "1f690e31141fa4e496ab403347ae2fb853e540f6e0fdc9f97e60b389802660ef",
+    "packaged_sha256": "10d79f029be15bf9054ad1ca976a8144620ff5e9167bc098192f8abca7ae7016",
+    "changes": "Remove workstation CLI blocks; make WORKSPACE environment-relative; normalize LF and EOF whitespace."
+  },
+  {
+    "file": "legacy/run_external_validation.py",
+    "original_sha256": "7393379ac2a7f8b2c9cef77bdc193dec34d94dc8547db93013f5cca114733061",
+    "packaged_sha256": "199d08735622fa6e9a99b87e46d3c148b595cc7eedab094837a5f84cd124fc55",
+    "changes": "Remove workstation CLI blocks; make WORKSPACE environment-relative; normalize LF and EOF whitespace."
+  },
+  {
+    "file": "legacy/run_part23_from_saved_intensity.py",
+    "original_sha256": "b78522e6e27ed5810155816ef474dc99036d06ac28c9eac35b60fca1d4a5b783",
+    "packaged_sha256": "1788097b5a159807f9e13aebddb7d7ad57896c616cc52fe9aea0624ada8f6f63",
+    "changes": "Remove workstation CLI blocks; make WORKSPACE environment-relative; normalize LF and EOF whitespace."
+  }
+]

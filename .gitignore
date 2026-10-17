@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+.venv/
+.env
+config.local.json
+Data/
+data/
+outputs*/
+logs/
+*.xlsx
+*.csv
+*.docx
+*.pdf
+*.pkl
+.DS_Store
